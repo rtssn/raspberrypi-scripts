@@ -11,3 +11,6 @@ cronなどで30分ごとに動かすなどで使ってください。
 ```
 */30 * * * * /bin/sh /home/motoki/scripts/mydns.sh >> /var/log/mydns.log 2>&1
 ```
+
+# resizeimage.pl
+from https://forums.raspberrypi.com/viewtopic.php?f=91&t=58069
