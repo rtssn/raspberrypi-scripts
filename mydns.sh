@@ -1,0 +1,1 @@
+/usr/bin/wget -O - 'https://[ID]:[PW]@www.mydns.jp/login.html'
